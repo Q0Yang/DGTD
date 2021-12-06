@@ -1,4 +1,4 @@
-clear all;clc;
+﻿clear all;clc;
 %% parameters
 n_M=3;              %number of wires at each surface
 dis_M=0.5;          %spacing of wires
