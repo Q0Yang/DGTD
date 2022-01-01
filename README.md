@@ -6,3 +6,4 @@ This project is built to share my code. Comments are welcomed.
 ![image](https://github.com/Q0Yang/DGTD/blob/main/Wirecag2022010113154371320220101133540441e.gif)
 
 'vec_basis_TET_new.m', it can generate a gif of the basis functions of a tetrahedron.
+![image](https://github.com/Q0Yang/DGTD/blob/main/vec_basis_TET_new.m.gif)
